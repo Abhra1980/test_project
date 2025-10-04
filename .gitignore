@@ -1,0 +1,14 @@
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# Node
+node_modules/
+dist/
+# Dotnet
+bin/
+obj/
+# Env
+.env
+appsettings*.Local.json
